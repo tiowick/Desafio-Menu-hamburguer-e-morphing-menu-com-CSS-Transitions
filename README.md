@@ -8,7 +8,7 @@
 
 
 
-## Criando exemplos de efeitos com css.
+## Exemplos de efeitos com css.
 ### Exemplo 1:
 ##
 
