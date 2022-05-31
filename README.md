@@ -32,5 +32,5 @@
 ![a20cb8bf-8442-4492-a57a-68246b29eb28](https://user-images.githubusercontent.com/100328826/171276884-c1fe9db8-1224-4e3a-ac3f-a50d8334f0d5.gif)
 ##
 
-# Tenho outros projetos, fique a vontade e volte sempre!!
+# Tenho outros projetos, fique à vontade e volte sempre!!
 # Obrigado pela atenção!!
